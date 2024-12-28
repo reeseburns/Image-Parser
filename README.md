@@ -1,6 +1,6 @@
 # Image Parser
 
-Individually generates images pixel by pixel.
+Image parser that processes data from external URLs and converts images into pixelated data.
 
 ## Instructions:
 1. Download the zip file
